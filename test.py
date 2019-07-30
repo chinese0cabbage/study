@@ -1,7 +1,5 @@
-s='basdfkjasdbfjkashbdjkfbasd'
+import scipy.special
+is='basdfkjasdbfjkashbdjkfbasd'
 
 print(len(s))
-
-
-import scipy.special
 print(scipy.special.expit(0))
