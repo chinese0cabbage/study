@@ -1,5 +1,4 @@
-import scipy.special
-is='basdfkjasdbfjkashbdjkfbasd'
-
-print(len(s))
-print(scipy.special.expit(0))
+from learn_package.class_one.add import add
+from learn_package.class_two import multiple 
+print(add(2,9))
+print(multiple.multiple(2,9))
