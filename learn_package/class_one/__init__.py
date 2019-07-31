@@ -1,6 +1,5 @@
-#from add import add
-def jian(a,b):
-	return a-b
-	pass
-if __name__ == '__main__':
-	print(jian(10,5))
+import os
+import sys
+path=os.path.dirname(__file__)
+sys.path.append(path)
+import add
