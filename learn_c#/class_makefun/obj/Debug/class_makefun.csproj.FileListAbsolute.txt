@@ -1,0 +1,7 @@
+D:\work\study\learn_c#\class_makefun\bin\Debug\class_makefun.exe.config
+D:\work\study\learn_c#\class_makefun\bin\Debug\class_makefun.exe
+D:\work\study\learn_c#\class_makefun\bin\Debug\class_makefun.pdb
+D:\work\study\learn_c#\class_makefun\obj\Debug\class_makefun.csprojAssemblyReference.cache
+D:\work\study\learn_c#\class_makefun\obj\Debug\class_makefun.csproj.CoreCompileInputs.cache
+D:\work\study\learn_c#\class_makefun\obj\Debug\class_makefun.exe
+D:\work\study\learn_c#\class_makefun\obj\Debug\class_makefun.pdb

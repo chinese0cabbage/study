@@ -1,0 +1,4 @@
+D:\work\study\learn_c#\second\obj\Debug\second.csprojAssemblyReference.cache
+D:\work\study\learn_c#\second\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\work\study\learn_c#\second\obj\Debug\second_MarkupCompile.cache
+D:\work\study\learn_c#\second\obj\Debug\second_MarkupCompile.lref

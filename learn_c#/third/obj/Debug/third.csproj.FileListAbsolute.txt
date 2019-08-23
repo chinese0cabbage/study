@@ -1,0 +1,7 @@
+D:\work\study\learn_c#\third\bin\Debug\third.exe.config
+D:\work\study\learn_c#\third\bin\Debug\third.exe
+D:\work\study\learn_c#\third\bin\Debug\third.pdb
+D:\work\study\learn_c#\third\obj\Debug\third.csproj.CoreCompileInputs.cache
+D:\work\study\learn_c#\third\obj\Debug\third.exe
+D:\work\study\learn_c#\third\obj\Debug\third.pdb
+D:\work\study\learn_c#\third\obj\Debug\third.csprojAssemblyReference.cache

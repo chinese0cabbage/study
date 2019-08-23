@@ -1,0 +1,7 @@
+D:\work\study\learn_c#\string\bin\Debug\@string.exe.config
+D:\work\study\learn_c#\string\bin\Debug\@string.exe
+D:\work\study\learn_c#\string\bin\Debug\@string.pdb
+D:\work\study\learn_c#\string\obj\Debug\string.csprojAssemblyReference.cache
+D:\work\study\learn_c#\string\obj\Debug\string.csproj.CoreCompileInputs.cache
+D:\work\study\learn_c#\string\obj\Debug\@string.exe
+D:\work\study\learn_c#\string\obj\Debug\@string.pdb

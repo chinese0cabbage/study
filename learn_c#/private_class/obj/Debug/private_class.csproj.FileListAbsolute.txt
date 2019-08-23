@@ -1,0 +1,6 @@
+D:\work\study\learn_c#\private_class\bin\Debug\private_class.exe.config
+D:\work\study\learn_c#\private_class\bin\Debug\private_class.exe
+D:\work\study\learn_c#\private_class\bin\Debug\private_class.pdb
+D:\work\study\learn_c#\private_class\obj\Debug\private_class.csproj.CoreCompileInputs.cache
+D:\work\study\learn_c#\private_class\obj\Debug\private_class.exe
+D:\work\study\learn_c#\private_class\obj\Debug\private_class.pdb

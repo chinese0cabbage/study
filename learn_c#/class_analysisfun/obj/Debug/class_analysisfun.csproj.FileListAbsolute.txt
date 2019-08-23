@@ -1,0 +1,6 @@
+D:\work\study\learn_c#\class_analysisfun\bin\Debug\class_analysisfun.exe.config
+D:\work\study\learn_c#\class_analysisfun\bin\Debug\class_analysisfun.exe
+D:\work\study\learn_c#\class_analysisfun\bin\Debug\class_analysisfun.pdb
+D:\work\study\learn_c#\class_analysisfun\obj\Debug\class_analysisfun.csproj.CoreCompileInputs.cache
+D:\work\study\learn_c#\class_analysisfun\obj\Debug\class_analysisfun.exe
+D:\work\study\learn_c#\class_analysisfun\obj\Debug\class_analysisfun.pdb

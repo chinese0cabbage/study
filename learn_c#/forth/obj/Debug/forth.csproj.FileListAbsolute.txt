@@ -1,0 +1,7 @@
+D:\work\study\learn_c#\forth\obj\Debug\forth.csprojAssemblyReference.cache
+D:\work\study\learn_c#\forth\obj\Debug\forth.csproj.CoreCompileInputs.cache
+D:\work\study\learn_c#\forth\bin\Debug\forth.exe.config
+D:\work\study\learn_c#\forth\bin\Debug\forth.exe
+D:\work\study\learn_c#\forth\bin\Debug\forth.pdb
+D:\work\study\learn_c#\forth\obj\Debug\forth.exe
+D:\work\study\learn_c#\forth\obj\Debug\forth.pdb

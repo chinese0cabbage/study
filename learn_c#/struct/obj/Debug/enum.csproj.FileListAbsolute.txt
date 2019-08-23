@@ -1,0 +1,7 @@
+D:\work\study\learn_c#\struct\bin\Debug\@struct.exe.config
+D:\work\study\learn_c#\struct\bin\Debug\@struct.exe
+D:\work\study\learn_c#\struct\bin\Debug\@struct.pdb
+D:\work\study\learn_c#\struct\obj\Debug\enum.csprojAssemblyReference.cache
+D:\work\study\learn_c#\struct\obj\Debug\enum.csproj.CoreCompileInputs.cache
+D:\work\study\learn_c#\struct\obj\Debug\@struct.exe
+D:\work\study\learn_c#\struct\obj\Debug\@struct.pdb

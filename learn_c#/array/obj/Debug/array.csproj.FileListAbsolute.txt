@@ -1,0 +1,7 @@
+D:\work\study\learn_c#\array\bin\Debug\array.exe.config
+D:\work\study\learn_c#\array\bin\Debug\array.exe
+D:\work\study\learn_c#\array\bin\Debug\array.pdb
+D:\work\study\learn_c#\array\obj\Debug\array.csprojAssemblyReference.cache
+D:\work\study\learn_c#\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+D:\work\study\learn_c#\array\obj\Debug\array.exe
+D:\work\study\learn_c#\array\obj\Debug\array.pdb
