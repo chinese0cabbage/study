@@ -12,7 +12,12 @@ namespace series
     {
         static void Main(string[] args)
         {
-            TestSerializable.UnFormatter();
+            XYZp xyz = new XYZp(1, 2, 3);
+            XYZp xY = new XYZp(xyz);
+            Console.WriteLine(xY.X);
+            Console.WriteLine(xY.Y);
+            Console.WriteLine(xY.Z);
+            Console.ReadLine();
         }
     }
     [Serializable]

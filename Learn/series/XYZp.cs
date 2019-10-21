@@ -23,6 +23,12 @@ namespace series
             this.Y = y;
             this.Z = z;
         }
+        public XYZp(XYZp xyz)
+        {
+            this.X = xyz.X;
+            this.Y = xyz.Y;
+            this.Z = xyz.Z;
+        }
         public XYZp Add(XYZp anotherXYZp)
         {
             return new XYZp(this.X + anotherXYZp.X, this.Y + anotherXYZp.Y, this.Z + anotherXYZp.Z);
