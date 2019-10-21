@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,6 +12,38 @@ namespace series
     {
         static void Main(string[] args)
         {
+            TestSerializable.UnFormatter();
+        }
+    }
+    [Serializable]
+    class TestSerializable
+    {
+        private int num1;
+        private int num2;
+
+        public TestSerializable(int num1,int num2)
+        {
+            this.num1 = num1;
+            this.num2 = num2;
+        }
+        public int Add()
+        {
+            return num2 + num1;
+        }
+        public static void Formatter()
+        {
+            TestSerializable testSerializable = new TestSerializable(1, 2);
+            BinaryFormatter binaryFormatter = new BinaryFormatter();
+            FileStream fileStream = new FileStream(@"C:\Users\zhangjun\Desktop\test", FileMode.OpenOrCreate);
+            binaryFormatter.Serialize(fileStream, testSerializable);
+        }
+        public static void UnFormatter()
+        {
+            BinaryFormatter binaryFormatter = new BinaryFormatter();
+            FileStream fileStream = new FileStream(@"C:\Users\zhangjun\Desktop\test", FileMode.Open);
+            TestSerializable test = (TestSerializable)binaryFormatter.Deserialize(fileStream);
+            Console.WriteLine(test.Add());
+            Console.ReadLine();
         }
     }
 }
