@@ -5,3 +5,9 @@ E:\source code\c#\LearnCoding\Learn\series\obj\Debug\series.csprojAssemblyRefere
 E:\source code\c#\LearnCoding\Learn\series\obj\Debug\series.csproj.CoreCompileInputs.cache
 E:\source code\c#\LearnCoding\Learn\series\obj\Debug\series.exe
 E:\source code\c#\LearnCoding\Learn\series\obj\Debug\series.pdb
+F:\SourceCode\study\Learn\series\obj\Debug\series.csprojAssemblyReference.cache
+F:\SourceCode\study\Learn\series\obj\Debug\series.exe
+F:\SourceCode\study\Learn\series\obj\Debug\series.pdb
+F:\SourceCode\study\Learn\series\bin\Debug\series.exe.config
+F:\SourceCode\study\Learn\series\bin\Debug\series.exe
+F:\SourceCode\study\Learn\series\bin\Debug\series.pdb
