@@ -23,7 +23,10 @@
     <ClInclude Include="math_method.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="LinearList.h">
+    <ClInclude Include="LinearLinkList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LinearArrayLiat.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
