@@ -248,3 +248,4 @@ ModelManifest.xml
 Build/*
 /CBIM.WPFTest
 /deploy/MEPPipe_2019
+python/venv
