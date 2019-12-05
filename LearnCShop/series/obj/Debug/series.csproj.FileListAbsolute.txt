@@ -1,7 +1,0 @@
-E:\source code\c#\LearnCoding\Learn\series\bin\Debug\series.exe.config
-E:\source code\c#\LearnCoding\Learn\series\bin\Debug\series.exe
-E:\source code\c#\LearnCoding\Learn\series\bin\Debug\series.pdb
-E:\source code\c#\LearnCoding\Learn\series\obj\Debug\series.csprojAssemblyReference.cache
-E:\source code\c#\LearnCoding\Learn\series\obj\Debug\series.csproj.CoreCompileInputs.cache
-E:\source code\c#\LearnCoding\Learn\series\obj\Debug\series.exe
-E:\source code\c#\LearnCoding\Learn\series\obj\Debug\series.pdb
