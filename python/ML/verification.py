@@ -1,11 +1,17 @@
-def add(a, b):
-    return a + b
+# def add(a, b):
+#     return a + b
+#
+#
+# c = add('a', 'b')
+# # print(c)
+#
+#
+# lst=[[1,2,3],[4,5,6],[7,8,9]]
+# for i,j in enumerate(lst):
+#     print(i,j,'\n')
 
+import Utils.MathUtils
 
-c = add('a', 'b')
-# print(c)
-
-
-lst=[[1,2,3],[4,5,6],[7,8,9]]
-for i,j in enumerate(lst):
-    print(i,j,'\n')
+x = 0.0
+y = Utils.MathUtils.Sigmoid(x)
+print(y)
